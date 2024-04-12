@@ -1,0 +1,5 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (KeyLoger.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  SelectFileDLGClass.cpp
+E:\VS\AnyAutoLogOn\ConsoleApplication2\SelectFileDLGClass.cpp(103,18): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\VS\AnyAutoLogOn\ConsoleApplication2\SelectFileDLGClass.cpp(109,16): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ConsoleApplication2.vcxproj -> E:\VS\AnyAutoLogOn\x64\Debug\AnyAutoLogOn.exe
